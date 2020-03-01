@@ -1,0 +1,4 @@
+Ветки отличаются первой строкой в README
+
+master - Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+demo - Create release branch with human (master) in boots (boots branch) and hat (hat branch).
